@@ -1,4 +1,4 @@
-# W–V–Cr–Ti Fusion Materials: Compositions C, A, B — Summary, Comparison & Guidance
+# W–V–Cr–Ti Fusion Materials: Compositions A, B, C — Summary, Comparison & Guidance
 
 **Short description:** This repo documents three alloy compositions derived from a tungsten-heavy base (C) blended with V-4Cr-4Ti to create graded candidates A and B. Designed for **functionally graded fusion components** combining plasma-facing stability (A) and structural toughness (B). Includes exact compositions, physics-based density estimates, fusion-relevant comparison, breakthrough scoring, and minimal reproducible code.
 
